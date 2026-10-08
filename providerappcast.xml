@@ -8,23 +8,23 @@
     </description>
     <language>en</language>
     <link>https://civilbook.in</link>
-    <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>CivilBook Update Feed Generator</generator>
     <!-- Android version -->
     <item>
-        <title>CivilBook v22.8.2 (Android)</title>
+        <title>CivilBook v22.9.8 (Android)</title>
         <description>
           <p><strong>What's New:</strong></p>
           <ul>
             <li>In-App Audio Call feature</li>
-            <li>Seamless document verification</li>
-            <li>Bug fixes & stability</li>
+            <li>Improve bugs & fixes</li>
+            <li>Improve app performance</li>
           </ul>
         </description>
-        <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+        <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.civilbook.civilbookprovider"
-                   sparkle:version="22.8.2"
-                   sparkle:shortVersionString="22.8.2"
+                   sparkle:version="22.9.8"
+                   sparkle:shortVersionString="222.9.8"
                    sparkle:os="android" />
         <sparkle:minimumSystemVersion>5.0</sparkle:minimumSystemVersion>
         <sparkle:releaseNotesLink>https://civilbook.in/release-notes/android-7-1-0</sparkle:releaseNotesLink>
